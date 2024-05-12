@@ -13,3 +13,7 @@ I'm a computer engineer and web developer major, passionate about using technolo
 C1 English for communicating with cross-functional teams.
 
 For more information visit my [LinkedIn page](https://www.linkedin.com/in/diih/)
+
+## 📖 Articles
+
+* Latest Article - [Design Patterns as Asynchronous Programming in NodeJS](https://diihgab.github.io/posts/DesignPatternsNodeJS/)

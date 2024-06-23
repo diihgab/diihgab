@@ -10,7 +10,7 @@
 
 I'm a computer engineer and web developer major, passionate about using technology to solve real-world problems and with experience building and maintaining complex software solutions as an individual contributor and as a lead for large-scale web developments. Proven leadership and implementation of business strategy from former engineering roles.
 
-C1 English for communicating with cross-functional teams.
+B2 English for communicating with cross-functional teams.
 
 For more information visit my [LinkedIn page](https://www.linkedin.com/in/diih/)
 

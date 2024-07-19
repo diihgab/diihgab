@@ -1,5 +1,5 @@
 <h1> Diego (dih) Gabriel </h1>
-<h3> Web Developer & Mentor </h3>
+<h3> Web Developer & Writer </h3>
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-eead2d?style=flat-square&link=https://diihgab.github.io/)](https://diihgab.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-diih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diih/)](https://linkedin.com/in/diih/) 

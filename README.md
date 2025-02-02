@@ -18,3 +18,4 @@ For more information visit my [LinkedIn page](https://www.linkedin.com/in/diih/)
 
 * Latest Article - [Design Patterns as Asynchronous Programming in NodeJS 🇧🇷](https://diihgab.github.io/posts/DesignPatternsNodeJS/)
 * [Workflow Orchestration with Apache Doris Job Scheduler 🇧🇷](https://diihgab.github.io/posts/Orquestra/#fn:assincronas)
+* [Amazon Leadership Principles 🇧🇷](https://diihgab.github.io/posts/Amazon/)
